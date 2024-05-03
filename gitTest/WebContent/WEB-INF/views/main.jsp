@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	
+	<h1 style="text-align: center;">Git Test</h1>
 </body>
 </html>
